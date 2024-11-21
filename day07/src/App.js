@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import Childcom from './Childcom';
+import Childcom from './ChildComp';
 import { useState } from 'react';
 
 function App() {
